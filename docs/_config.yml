@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "contrast", "dark", "dirt", "mint", "
 
 # Site Settings
 locale                   : "es"
-title                    : "Cuidadania digital"
+title                    : "Trincheras digitales"
 title_separator          : "-"
 name                     : &name "Iker Landajuela" # &name is a YAML anchor which can be *referenced later
 description              : &description "Ciberguerra durante el proceso de referéndum."
