@@ -3,7 +3,7 @@ layout: post
 title:  "Mi primer post!"
 date:   2017-10-08 16:16:01 -0600
 categories:
-  - Post 
+  - Post Formats
 tags:
   - Post Formats
   - readability
